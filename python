@@ -1,0 +1,24 @@
+#Criando variável do tipo inteiro
+x = 1
+print(x)
+
+#Criando variável do tipo float
+y = 3.13
+print(y)
+
+#Criando variável do tipo string
+m = "Python"
+m = 'Python'
+print(m)
+
+#Criando variável do tipo lógica
+w = True  
+y = False
+print(y)
+
+#Calculadora
+x = 10
+y = 20
+z = 100
+w = (x + y) * z / 100
+print(w)
